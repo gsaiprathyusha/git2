@@ -1,6 +1,10 @@
 hello world
 cricket
+<<<<<<< master
+Hii lahari
+=======
 Hii
 Helloo
 Cornwall-7
 S
+>>>>>>> master
